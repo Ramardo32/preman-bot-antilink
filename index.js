@@ -1,3 +1,8 @@
+// This bot only for Anti-link/Keylogger SA-MP/Malware Detection Automatic., DISCORD ramardoaja
+// Author: Ramardo
+// Description: 
+// It is forbidden to remove this author mark, okay?
+
 const { Client, GatewayIntentBits, REST, Routes, SlashCommandBuilder, EmbedBuilder } = require('discord.js');
 const fs = require('fs');
 const axios = require('axios');
